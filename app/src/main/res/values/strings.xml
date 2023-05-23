@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aston_intensive_5</string>
+    <string name="input_your_first_name">input your first name</string>
+    <string name="input_your_last_name">input your last name</string>
+    <string name="input_your_phone_number">input your phone number</string>
+    <string name="save">Save</string>
+</resources>
